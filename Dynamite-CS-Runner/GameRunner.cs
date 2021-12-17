@@ -23,6 +23,7 @@ namespace Dynamite_CS_Runner
             {
                 player.DynamiteRemaining -= 1;
             }
+            player.Gamestate.SetRounds(newRounds);
         }
 
         private RoundResult GetRoundResult(Move p1Move, Move p2Move)
