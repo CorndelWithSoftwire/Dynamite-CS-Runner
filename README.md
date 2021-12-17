@@ -1,3 +1,5 @@
+⚠️ This runner hasn't been tested and might be buggy
+
 # Dynamite C\#
 
 Local bot runner for developing [Dynamite](https://dynamite.softwire.com) bots in C#.
